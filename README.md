@@ -5,7 +5,7 @@ Este repositório contém o código-fonte do meu portfólio pessoal. Ele foi des
 > **Status:** Ativo e em constante atualização. 🚀
 
 ## 🌐 Visualize Online
-Você pode acessar o portfólio através do link: [INSIRA O LINK DO SEU GITHUB PAGES AQUI]
+Você pode acessar o portfólio através do link: (https://lucasfcz.github.io/Personal-Portfolio/)
 
 ## 🛠️ Tecnologias Utilizadas
 Para construir esta interface moderna e responsiva, utilizei:
