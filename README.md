@@ -1,31 +1,34 @@
-# Portfólio - Lucas Figueiredo Cabral
+# 💻 Portfólio Pessoal | Lucas Cabral
 
-Portfólio pessoal desenvolvido para apresentação profissional e centralização de projetos Backend.
+Este repositório contém o código-fonte do meu portfólio pessoal. Ele foi desenvolvido para centralizar meus projetos, habilidades técnicas e minha jornada acadêmica no IFPE.
 
-## Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas no IFPE, com foco em **desenvolvimento Backend e Cloud Computing**.
-Atualmente, estou aprofundando meus estudos em **Java**, com ênfase em lógica de negócio, Programação Orientada a Objetos
-e construção de aplicações Backend.
+> **Status:** Ativo e em constante atualização. 🚀
 
-## Objetivo do portfólio
-Este portfólio tem como finalidade:
-- Apresentar meu perfil profissional
-- Centralizar projetos Backend e Cloud
-- Documentar minha evolução técnica ao longo dos estudos
+## 🌐 Visualize Online
+Você pode acessar o portfólio através do link: [INSIRA O LINK DO SEU GITHUB PAGES AQUI]
 
-À medida que novos projetos forem desenvolvidos, eles serão adicionados.
+## 🛠️ Tecnologias Utilizadas
+Para construir esta interface moderna e responsiva, utilizei:
+* **HTML5** e **CSS3** (Flexbox, Grid, Variáveis CSS).
+* **FontAwesome** (Ícones).
+* **Google Fonts** (Tipografia Inter e Poppins).
 
-## Tecnologias utilizadas
-- HTML5
-- CSS3
+## 🎯 Destaques do Portfólio
+* **Backend Focus:** Seção dedicada a Java, Spring Boot e PostgreSQL.
+* **Projetos:** Integração com o repositório da [Fluxbank API](https://github.com/Lucasfcz/FluxbankAPI).
+* **Soft Skills:** Destaque para o estudo contínuo de **Inglês (Nível B1)**.
+* **Mobile Friendly:** Design totalmente responsivo para dispositivos móveis.
 
-> Este projeto tem foco em apresentação profissional.  
-> Meus principais estudos e projetos estão direcionados ao Backend.
+## 📈 Evolução Recente
+Recentemente, atualizei o portfólio para refletir minha transição de projetos Java puro (Console) para arquiteturas web com **Spring Boot** e bancos de dados relacionais (**PostgreSQL**).
 
-## Status do projeto
-🟢 Em evolução contínua
+---
 
-## Contato
-- LinkedIn: https://www.linkedin.com/in/lucas-cabral-2432633a6/
-- GitHub: https://github.com/1Lucasfc
-- Email: lucasfc080@gmail.com
+## 🌎 About Me (English)
+I am an Analysis and Systems Development student at IFPE. My current focus is on building scalable APIs using the **Java/Spring** ecosystem and learning how to deploy them in **Cloud** environments. 
+
+I'm also currently improving my English skills (B1 Level) to better communicate and read technical documentation.
+
+## 📬 Contato
+* **LinkedIn:** [Lucas Cabral](https://www.linkedin.com/in/lucas-cabral-2432633a6/)
+* **Email:** lucasfc080@gmail.com

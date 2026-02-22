@@ -19,7 +19,8 @@
             <ul class="nav-links">
                 <li><a href="#about-me">Sobre</a></li>
                 <li><a href="#skills">Stack</a></li>
-                <li><a href="#projects">Projetos</a></li> <li><a href="#contact">Contato</a></li>
+                <li><a href="#projects">Projetos</a></li> 
+                <li><a href="#contact">Contato</a></li>
             </ul>
         </nav>
     </div>
@@ -69,28 +70,28 @@
             <h2 id="skills-title">Skills & Tecnologias</h2>
 
             <h3 class="skill-category-title title-purple"><i class="fas fa-server"></i> Backend</h3>
-            <div class="skills-grid">
-                <div class="skill-item done-purple border-purple">
-                    <i class="fab fa-java"></i>
-                    <h4>Java</h4>
-                    <small>Concluído</small>
-                </div>
-                <div class="skill-item done-purple border-purple">
-                    <i class="fas fa-project-diagram"></i>
-                    <h4>POO</h4>
-                    <small>Concluído</small>
-                </div>
-                <div class="skill-item focus-purple border-purple">
-                    <i class="fas fa-leaf"></i>
-                    <h4>Spring Boot</h4>
-                    <small class="text-faded">Foco Atual</small>
-                </div>
-                <div class="skill-item focus-purple border-purple">
-                    <i class="fas fa-database"></i>
-                    <h4>MySQL</h4>
-                    <small class="text-faded">Foco Atual</small>
-                </div>
-            </div>
+<div class="skills-grid">
+    <div class="skill-item done-purple border-purple">
+        <i class="fab fa-java"></i>
+        <h4>Java</h4>
+        <small>Concluído</small>
+    </div>
+    <div class="skill-item done-purple border-purple">
+        <i class="fas fa-project-diagram"></i>
+        <h4>POO</h4>
+        <small>Concluído</small>
+    </div>
+    <div class="skill-item done-purple border-purple">
+        <i class="fas fa-leaf"></i>
+        <h4>Spring Boot</h4>
+        <small>Concluído</small>
+    </div>
+    <div class="skill-item done-purple border-purple">
+        <i class="fas fa-database"></i>
+        <h4>PostgreSQL</h4>
+        <small>Concluído</small>
+    </div>
+</div>
 
             <h3 class="skill-category-title title-blue"><i class="fas fa-laptop-code"></i> Frontend</h3>
             <div class="skills-grid">
@@ -103,7 +104,16 @@
                     <h4>CSS3</h4>
                 </div>
             </div>
+            <h3 class="skill-category-title title-jade"><i class="fas fa-language"></i> Idiomas</h3>
+            <div class="skills-grid">
+                <div class="skill-item done-jade border-jade">
+                    <i class="fas fa-globe-americas"></i>
+                    <h4>Inglês</h4>
+                    <small>Nível B1 (Intermediário)</small>
+                </div>
+            </div>
         </div>
+        
     </section>
 
     <section id="projects" aria-labelledby="projects-title">
@@ -112,38 +122,38 @@
             
             <div class="projects-grid">
                 <article class="project-card">
-                    <div class="project-content">
-                        <div class="project-tag">Java / Backend</div>
-                        <h3>BankSystem</h3>
-                        <p>
-                            Sistema bancário robusto desenvolvido em Java, aplicando conceitos avançados de 
-                            <strong>Programação Orientada a Objetos (POO)</strong>. O projeto gerencia contas, 
-                            transações e validações de segurança.
-                        </p>
-                        <div class="project-techs">
-                            <span><i class="fab fa-java"></i> Java</span>
-                            <span><i class="fas fa-terminal"></i> Console Application</span>
-                            <span><i class="fas fa-code-branch"></i> Git</span>
-                        </div>
-                        <div class="project-actions">
-                            <a href="https://github.com/1Lucasfc/BankSystem" target="_blank" class="btn-project">
-                                <i class="fab fa-github"></i> Repositório
-                            </a>
-                        </div>
-                    </div>
-                </article>
+    <div class="project-content">
+        <div class="project-tag">Java / Spring Boot / PostgreSQL</div>
+        <h3>Fluxbank API</h3>
+        <p>
+            Evolução do meu sistema bancário anterior, agora arquitetado como uma robusta <strong>API REST</strong>. 
+            Desenvolvida com <strong>Spring Boot</strong> e persistência em <strong>PostgreSQL</strong>, a aplicação gerencia contas e transações de forma escalável.
+        </p>
+        <div class="project-techs">
+            <span><i class="fab fa-java"></i> Java</span>
+            <span><i class="fas fa-leaf"></i> Spring Boot</span>
+            <span><i class="fas fa-database"></i> PostgreSQL</span>
+            <span><i class="fas fa-server"></i> API REST</span>
+        </div>
+        <div class="project-actions">
+            <a href="https://github.com/Lucasfcz/FluxbankAPI" target="_blank" class="btn-project">
+                <i class="fab fa-github"></i> Repositório
+            </a>
+        </div>
+    </div>
+</article>
                 
                 <article class="project-card placeholder">
                     <div class="project-content">
                         <h3>Próximo Grande Projeto...</h3>
-                        <p>Em breve: API REST com Spring Boot e Deploy em Cloud.</p>
+                        <p>Em breve: Deploy em Cloud e Integração Contínua (CI/CD).</p>
                     </div>
                 </article>
             </div>
         </div>
     </section>
 
-    <section id="status" aria-labelledby="status-title">
+        <section id="status" aria-labelledby="status-title">
         <div class="container">
             <h2 id="status-title">Status Atual</h2>
             <ul class="status-list">
@@ -153,10 +163,15 @@
                 </li>
                 <li class="status-item status-purple">
                     <strong>Foco de Carreira: Backend</strong><br>
-                    <small>Java & Cloud Computing</small>
+                    <small>Java, Spring Boot & Cloud Computing</small>
+                </li>
+                <li class="status-item status-blue">
+                    <strong>Desenvolvimento Pessoal</strong><br>
+                    <small>Curso de Inglês - Nível B1</small>
                 </li>
             </ul>
         </div>
+    </section>
     </section>
 
 </main>

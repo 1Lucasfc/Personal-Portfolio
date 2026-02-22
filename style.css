@@ -220,6 +220,7 @@ nav {
 .status-item { margin-bottom: 15px; padding-left: 15px; }
 .status-jade { border-left: 2px solid var(--jade); }
 .status-purple { border-left: 2px solid var(--purple); }
+.status-blue { border-left: 2px solid var(--blue); }
 
 /* ================= PROJECTS SECTION ================= */
 .projects-grid {
